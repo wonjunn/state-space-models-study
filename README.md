@@ -42,6 +42,11 @@
 
 ## Useful Links
 
+<strong> Hazy Research Blog </strong> <br>
+<a href="https://hazyresearch.stanford.edu/blog">
+  <img src="https://github.com/wonjunn/state-space-models-study/assets/60861873/6746910e-7ed0-43bb-9bd7-2d8c3ef52964" width="20" />
+</a>
+
 <strong> A Visual Guide to Mamba and State Space Models </strong> <code>#Mamba</code> <br>
 <a href="https://open.substack.com/pub/maartengrootendorst/p/a-visual-guide-to-mamba-and-state?utm_campaign=post&utm_medium=web"><img alt="GitHub release" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=flat-square"></a>
 
