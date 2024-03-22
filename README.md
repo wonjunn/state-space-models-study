@@ -74,6 +74,10 @@
 
 ## Linear Attention & RNN
 
+<details><summary> <strong> Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention </strong> <code>ICML 2020</code> <br> <a href="https://arxiv.org/abs/2006.16236"><img src="https://img.shields.io/badge/arXiv-2006.16236-b31b1b.svg?style=flat-square"></a> </summary>
+
+</details>
+
 <details><summary> <strong> Resurrecting Recurrent Neural Networks for Long Sequences </strong> <code>ICML 2023</code> <code>#LRU</code> <br> <a href="https://arxiv.org/abs/2303.06349"><img src="https://img.shields.io/badge/arXiv-2303.06349-b31b1b.svg?style=flat-square"></a> </summary>
 
 </details>
