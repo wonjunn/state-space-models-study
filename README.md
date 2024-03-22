@@ -1,5 +1,7 @@
 # state-space-models-study
 
+**Resources for State Space Models (SSM)**
+
 ## Must-Read Papers
 
 <details><summary> <strong> HiPPO: Recurrent Memory with Optimal Polynomial Projections </strong> <code>NeurIPS 2020</code> <code>#HiPPO</code> <br> <a href="https://arxiv.org/abs/2008.07669"><img src="https://img.shields.io/badge/arXiv-2008.07669-b31b1b.svg?style=flat-square"></a> <a href="https://hazyresearch.stanford.edu/blog/2020-12-05-hippo">
