@@ -46,6 +46,30 @@
 
 </details>
 
+## Matrix $A$
+
+<details><summary> <strong> HiPPO: Recurrent Memory with Optimal Polynomial Projections </strong> <code>NeurIPS 2020</code> <code>#HiPPO</code> <br> <a href="https://arxiv.org/abs/2008.07669"><img src="https://img.shields.io/badge/arXiv-2008.07669-b31b1b.svg?style=flat-square"></a> <a href="https://hazyresearch.stanford.edu/blog/2020-12-05-hippo">
+  <img src="https://github.com/wonjunn/state-space-models-study/assets/60861873/6746910e-7ed0-43bb-9bd7-2d8c3ef52964" width="20" />
+</a> </summary>
+  
+![image](https://github.com/wonjunn/state-space-models-study/assets/60861873/3bbe2dd0-b97f-4456-92fa-d6a8e3e1131b)
+
+</details>
+
+<details><summary> <strong> Efficiently Modeling Long Sequences with Structured State Spaces </strong> <code>ICLR 2022</code> <code>#S4</code> <br> <a href="https://arxiv.org/abs/2111.00396"><img alt="GitHub release" src="https://img.shields.io/badge/arXiv-2111.00396-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/state-spaces/s4"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square"></a> <a href="https://hazyresearch.stanford.edu/blog/2022-01-14-s4-1">
+  <img src="https://github.com/wonjunn/state-space-models-study/assets/60861873/6746910e-7ed0-43bb-9bd7-2d8c3ef52964" width="20" />
+</a> </summary>
+  
+![image](https://github.com/wonjunn/state-space-models-study/assets/60861873/7196a443-8ab2-4620-b0ad-164bd1c2db9d)
+
+</details>
+
+<details><summary> <strong> On the Parameterization and Initialization of Diagonal State Space Models </strong> <code>NeurIPS 2023</code> <code>#S4D</code> <br> <a href="https://arxiv.org/abs/2206.11893"><img src="https://img.shields.io/badge/arXiv-2206.11893-b31b1b.svg?style=flat-square"></a> </summary>
+
+![image](https://github.com/wonjunn/state-space-models-study/assets/60861873/efa33a0a-f487-409a-b251-1292e1f4ade9)
+
+</details>
+
 ## Useful Links
 
 <strong> Hazy Research Blog </strong> <br>
