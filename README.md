@@ -78,6 +78,10 @@
 
 ## Linear RNN
 
+<details><summary> <strong> Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models </strong> <code>Preprint</code> <code>#Griffin</code> <code>#Hawk</code> <br> <a href="https://arxiv.org/abs/2402.19427"><img src="https://img.shields.io/badge/arXiv-2402.19427-b31b1b.svg?style=flat-square"></a> </summary>
+
+</details>
+
 ## Useful Links
 
 <strong> Hazy Research Blog </strong> <br>
