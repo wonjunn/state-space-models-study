@@ -1,6 +1,4 @@
-# state-space-models-study
-
-**Resources for State Space Models (SSM)**
+# Resources for State Space Models (SSM)
 
 ## Must-Read Papers
 
