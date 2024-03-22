@@ -82,6 +82,18 @@
 
 </details>
 
+## Applications
+
+### Vision
+
+<details><summary> <strong> Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model </strong> <code>Preprint</code> <code>#Vim</code> <br> <a href="https://arxiv.org/abs/2401.09417"><img src="https://img.shields.io/badge/arXiv-2401.09417-b31b1b.svg?style=flat-square"></a> </summary>
+
+</details>
+
+<details><summary> <strong> VMamba: Visual State Space Model </strong> <code>Preprint</code> <code>#VMamba</code> <br> <a href="https://arxiv.org/abs/2401.10166"><img src="https://img.shields.io/badge/arXiv-2401.10166-b31b1b.svg?style=flat-square"></a> </summary>
+
+</details>
+
 ## Useful Links
 
 <strong> Hazy Research Blog </strong> <br>
