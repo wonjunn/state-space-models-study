@@ -91,6 +91,9 @@
 <strong> Do we need Attention? - Linear RNNs and State Space Models (SSMs) for NLP </strong> <br>
 <a href="https://youtu.be/dKJEpOtVgXc?si=kvYkRG6gGVwuBDnC"><img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat-square"></a>
 
+<strong> Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math </strong> <br>
+<a href="https://youtu.be/8Q_tqwpTpVU?si=jWkH3QfOgRNDqURi"><img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat-square"></a>
+
 <strong> The Annotated S4 </strong> <code>#S4</code> <br>
 <a href="https://srush.github.io/annotated-s4/"><img src="https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat-square"></a>
 
