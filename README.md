@@ -82,6 +82,10 @@
 
 </details>
 
+<details><summary> <strong> RWKV: Reinventing RNNs for the Transformer Era </strong> <code>EMNLP 2023</code> <code>#RWKV</code> <br> <a href="https://arxiv.org/abs/2305.13048"><img src="https://img.shields.io/badge/arXiv-2305.13048-b31b1b.svg?style=flat-square"></a> </summary>
+
+</details>
+
 <details><summary> <strong> Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models </strong> <code>Preprint</code> <code>#Griffin</code> <code>#Hawk</code> <br> <a href="https://arxiv.org/abs/2402.19427"><img src="https://img.shields.io/badge/arXiv-2402.19427-b31b1b.svg?style=flat-square"></a> </summary>
 
 </details>
@@ -90,11 +94,11 @@
 
 ### Vision
 
-<details><summary> <strong> Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model </strong> <code>Preprint</code> <code>#Vim</code> <br> <a href="https://arxiv.org/abs/2401.09417"><img src="https://img.shields.io/badge/arXiv-2401.09417-b31b1b.svg?style=flat-square"></a> </summary>
+<details><summary> <strong> Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model </strong> <code>Preprint</code> <code>#Vim</code> <br> <a href="https://arxiv.org/abs/2401.09417"><img src="https://img.shields.io/badge/arXiv-2401.09417-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/hustvl/Vim"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square"></a> </summary>
 
 </details>
 
-<details><summary> <strong> VMamba: Visual State Space Model </strong> <code>Preprint</code> <code>#VMamba</code> <br> <a href="https://arxiv.org/abs/2401.10166"><img src="https://img.shields.io/badge/arXiv-2401.10166-b31b1b.svg?style=flat-square"></a> </summary>
+<details><summary> <strong> VMamba: Visual State Space Model </strong> <code>Preprint</code> <code>#VMamba</code> <br> <a href="https://arxiv.org/abs/2401.10166"><img src="https://img.shields.io/badge/arXiv-2401.10166-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/MzeroMiko/VMamba"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square"></a> </summary>
 
 </details>
 
