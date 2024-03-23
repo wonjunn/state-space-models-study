@@ -90,6 +90,16 @@
 
 </details>
 
+## Evaluation
+
+<details><summary> <strong> Long Range Arena: A Benchmark for Efficient Transformers </strong> <code>ICLR 2021</code> <br> <a href="https://arxiv.org/abs/2011.04006"><img src="https://img.shields.io/badge/arXiv-2011.04006-b31b1b.svg?style=flat-square"></a> </summary>
+
+</details>
+
+<details><summary> <strong> Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors </strong> <code>ICLR 2024</code> <br> <a href="https://arxiv.org/abs/2310.02980"><img src="https://img.shields.io/badge/arXiv-2310.02980-b31b1b.svg?style=flat-square"></a> </summary>
+
+</details>
+
 ## Applications
 
 ### Vision
@@ -101,6 +111,11 @@
 <details><summary> <strong> VMamba: Visual State Space Model </strong> <code>Preprint</code> <code>#VMamba</code> <br> <a href="https://arxiv.org/abs/2401.10166"><img src="https://img.shields.io/badge/arXiv-2401.10166-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/MzeroMiko/VMamba"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square"></a> </summary>
 
 </details>
+
+## Survey
+
+<strong> On the Resurgence of Recurrent Models for Long Sequences -- Survey and Research Opportunities in the Transformer Era </strong> <br>
+<a href="https://arxiv.org/abs/2402.08132"><img src="https://img.shields.io/badge/arXiv-2402.08132-b31b1b.svg?style=flat-square"></a>
 
 ## Useful Links
 
@@ -126,6 +141,3 @@
 
 <strong> RNNs strike back </strong> <br>
 <a href="https://adrian-valente.github.io/2023/10/03/linear-rnns.html"><img src="https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat-square"></a>
-
-<strong> On the Resurgence of Recurrent Models for Long Sequences -- Survey and Research Opportunities in the Transformer Era </strong> <br>
-<a href="https://arxiv.org/abs/2402.08132"><img src="https://img.shields.io/badge/arXiv-2402.08132-b31b1b.svg?style=flat-square"></a>
