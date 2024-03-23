@@ -124,5 +124,8 @@
 <strong> Mamba: The Hard Way </strong> <code>#Mamba</code> <br>
 <a href="https://srush.github.io/annotated-mamba/hard.html"><img src="https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat-square"></a>
 
+<strong> RNNs strike back </strong> <br>
+<a href="https://adrian-valente.github.io/2023/10/03/linear-rnns.html"><img src="https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat-square"></a>
+
 <strong> On the Resurgence of Recurrent Models for Long Sequences -- Survey and Research Opportunities in the Transformer Era </strong> <br>
 <a href="https://arxiv.org/abs/2402.08132"><img src="https://img.shields.io/badge/arXiv-2402.08132-b31b1b.svg?style=flat-square"></a>
