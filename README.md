@@ -2,7 +2,7 @@
 
 ## Must-Read Papers
 
-<details><summary> <strong> HiPPO: Recurrent Memory with Optimal Polynomial Projections </strong> <code>NeurIPS 2020</code> <code>#HiPPO</code> <br> <a href="https://arxiv.org/abs/2008.07669"><img src="https://img.shields.io/badge/arXiv-2008.07669-b31b1b.svg?style=flat-square"></a> <a href="https://hazyresearch.stanford.edu/blog/2020-12-05-hippo">
+<details><summary> <strong> HiPPO: Recurrent Memory with Optimal Polynomial Projections </strong> <code>NeurIPS 2020</code> <code>#HiPPO</code> <br> <a href="https://arxiv.org/abs/2008.07669"><img src="https://img.shields.io/badge/arXiv-2008.07669-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/HazyResearch/hippo-code"><img src="https://img.shields.io/github/stars/HazyResearch/hippo-code?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> <a href="https://hazyresearch.stanford.edu/blog/2020-12-05-hippo">
   <img src="https://github.com/wonjunn/state-space-models-study/assets/60861873/6746910e-7ed0-43bb-9bd7-2d8c3ef52964" width="20" />
 </a> </summary>
   
@@ -74,7 +74,7 @@
 
 ## Linear Attention & RNN
 
-<details><summary> <strong> Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention </strong> <code>ICML 2020</code> <br> <a href="https://arxiv.org/abs/2006.16236"><img src="https://img.shields.io/badge/arXiv-2006.16236-b31b1b.svg?style=flat-square"></a> </summary>
+<details><summary> <strong> Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention </strong> <code>ICML 2020</code> <br> <a href="https://arxiv.org/abs/2006.16236"><img src="https://img.shields.io/badge/arXiv-2006.16236-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/idiap/fast-transformers"><img src="https://img.shields.io/github/stars/idiap/fast-transformers?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
@@ -92,11 +92,11 @@
 
 ## Evaluation
 
-<details><summary> <strong> Long Range Arena: A Benchmark for Efficient Transformers </strong> <code>ICLR 2021</code> <br> <a href="https://arxiv.org/abs/2011.04006"><img src="https://img.shields.io/badge/arXiv-2011.04006-b31b1b.svg?style=flat-square"></a> </summary>
+<details><summary> <strong> Long Range Arena: A Benchmark for Efficient Transformers </strong> <code>ICLR 2021</code> <br> <a href="https://arxiv.org/abs/2011.04006"><img src="https://img.shields.io/badge/arXiv-2011.04006-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/google-research/long-range-arena"><img src="https://img.shields.io/github/stars/google-research/long-range-arena?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
-<details><summary> <strong> Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors </strong> <code>ICLR 2024</code> <br> <a href="https://arxiv.org/abs/2310.02980"><img src="https://img.shields.io/badge/arXiv-2310.02980-b31b1b.svg?style=flat-square"></a> </summary>
+<details><summary> <strong> Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors </strong> <code>ICLR 2024</code> <br> <a href="https://arxiv.org/abs/2310.02980"><img src="https://img.shields.io/badge/arXiv-2310.02980-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/IdoAmos/not-from-scratch"><img src="https://img.shields.io/github/stars/IdoAmos/not-from-scratch?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
@@ -128,10 +128,10 @@
 <a href="https://open.substack.com/pub/maartengrootendorst/p/a-visual-guide-to-mamba-and-state?utm_campaign=post&utm_medium=web"><img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=flat-square"></a>
 
 <strong> Do we need Attention? - Linear RNNs and State Space Models (SSMs) for NLP </strong> <br>
-<a href="https://youtu.be/dKJEpOtVgXc?si=kvYkRG6gGVwuBDnC"><img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat-square"></a>
+<a href="https://youtu.be/dKJEpOtVgXc?si=kvYkRG6gGVwuBDnC"><img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat-square"></a> <a href="https://github.com/srush/do-we-need-attention"><img src="https://img.shields.io/github/stars/srush/do-we-need-attention?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a>
 
 <strong> Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math </strong> <br>
-<a href="https://youtu.be/8Q_tqwpTpVU?si=jWkH3QfOgRNDqURi"><img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat-square"></a>
+<a href="https://youtu.be/8Q_tqwpTpVU?si=jWkH3QfOgRNDqURi"><img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat-square"></a> <a href="https://github.com/hkproj/mamba-notes"><img src="https://img.shields.io/github/stars/hkproj/mamba-notes?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a>
 
 <strong> The Annotated S4 </strong> <code>#S4</code> <br>
 <a href="https://srush.github.io/annotated-s4/"><img src="https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat-square"></a>
