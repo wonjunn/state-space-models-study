@@ -94,6 +94,13 @@
 
 </details>
 
+## Analysis
+
+<details><summary> <strong> The Hidden Attention of Mamba Models </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2403.01590"><img src="https://img.shields.io/badge/arXiv-2403.01590-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/AmeenAli/HiddenMambaAttn"><img src="https://img.shields.io/github/stars/AmeenAli/HiddenMambaAttn?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+
 ## Evaluation
 
 <details><summary> <strong> Long Range Arena: A Benchmark for Efficient Transformers </strong> <code>ICLR 2021</code> <br> <a href="https://arxiv.org/abs/2011.04006"><img src="https://img.shields.io/badge/arXiv-2011.04006-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/google-research/long-range-arena"><img src="https://img.shields.io/github/stars/google-research/long-range-arena?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
