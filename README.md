@@ -141,3 +141,6 @@
 
 <strong> RNNs strike back </strong> <br>
 <a href="https://adrian-valente.github.io/2023/10/03/linear-rnns.html"><img src="https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat-square"></a>
+
+<strong> Mamba No. 5 (A Little Bit Of...) </strong> <code>#Mamba</code> <br>
+<a href="https://jameschen.io/jekyll/update/2024/02/12/mamba.html"><img src="https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat-square"></a>
