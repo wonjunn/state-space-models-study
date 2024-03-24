@@ -10,7 +10,7 @@
 
 </details>
 
-<details><summary> <strong> Efficiently Modeling Long Sequences with Structured State Spaces </strong> <code>ICLR 2022</code> <code>#S4</code> <br> <a href="https://arxiv.org/abs/2111.00396"><img alt="GitHub release" src="https://img.shields.io/badge/arXiv-2111.00396-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/state-spaces/s4"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square"></a> <a href="https://hazyresearch.stanford.edu/blog/2022-01-14-s4-1">
+<details><summary> <strong> Efficiently Modeling Long Sequences with Structured State Spaces </strong> <code>ICLR 2022</code> <code>#S4</code> <br> <a href="https://arxiv.org/abs/2111.00396"><img alt="GitHub release" src="https://img.shields.io/badge/arXiv-2111.00396-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/state-spaces/s4"><img src="https://img.shields.io/github/stars/state-spaces/s4?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> <a href="https://hazyresearch.stanford.edu/blog/2022-01-14-s4-1">
   <img src="https://github.com/wonjunn/state-space-models-study/assets/60861873/6746910e-7ed0-43bb-9bd7-2d8c3ef52964" width="20" />
 </a> </summary>
   
@@ -18,7 +18,7 @@
 
 </details>
 
-<details><summary> <strong> Hungry Hungry Hippos: Towards Language Modeling with State Space Models </strong> <code>ICLR 2023</code> <code>#H3</code> <br> <a href="https://arxiv.org/abs/2212.14052"><img alt="GitHub release" src="https://img.shields.io/badge/arXiv-2212.14052-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/HazyResearch/H3"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square"></a> <a href="https://hazyresearch.stanford.edu/blog/2023-01-20-h3">
+<details><summary> <strong> Hungry Hungry Hippos: Towards Language Modeling with State Space Models </strong> <code>ICLR 2023</code> <code>#H3</code> <br> <a href="https://arxiv.org/abs/2212.14052"><img alt="GitHub release" src="https://img.shields.io/badge/arXiv-2212.14052-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/HazyResearch/H3"><img src="https://img.shields.io/github/stars/HazyResearch/H3?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> <a href="https://hazyresearch.stanford.edu/blog/2023-01-20-h3">
   <img src="https://github.com/wonjunn/state-space-models-study/assets/60861873/6746910e-7ed0-43bb-9bd7-2d8c3ef52964" width="20" />
 </a> </summary>
 
@@ -26,7 +26,7 @@
 
 </details>
 
-<details><summary> <strong> Mamba: Linear-Time Sequence Modeling with Selective State Spaces </strong> <code>Preprint</code> <code>#S6</code> <code>#Mamba</code> <br> <a href="https://arxiv.org/abs/2312.00752"><img src="https://img.shields.io/badge/arXiv-2312.00752-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/state-spaces/mamba"><img alt="GitHub release" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square"></a> </summary>
+<details><summary> <strong> Mamba: Linear-Time Sequence Modeling with Selective State Spaces </strong> <code>Preprint</code> <code>#S6</code> <code>#Mamba</code> <br> <a href="https://arxiv.org/abs/2312.00752"><img src="https://img.shields.io/badge/arXiv-2312.00752-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/state-spaces/mamba"><img src="https://img.shields.io/github/stars/state-spaces/mamba?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 ![image](https://github.com/wonjunn/state-space-models-study/assets/60861873/74d75d5c-b675-4120-9391-f90203257578)
 
@@ -50,7 +50,7 @@
 
 ### Structured Matrix
 
-<details><summary> <strong> Efficiently Modeling Long Sequences with Structured State Spaces </strong> <code>ICLR 2022</code> <code>#S4</code> <br> <a href="https://arxiv.org/abs/2111.00396"><img alt="GitHub release" src="https://img.shields.io/badge/arXiv-2111.00396-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/state-spaces/s4"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square"></a> <a href="https://hazyresearch.stanford.edu/blog/2022-01-14-s4-1">
+<details><summary> <strong> Efficiently Modeling Long Sequences with Structured State Spaces </strong> <code>ICLR 2022</code> <code>#S4</code> <br> <a href="https://arxiv.org/abs/2111.00396"><img alt="GitHub release" src="https://img.shields.io/badge/arXiv-2111.00396-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/state-spaces/s4"><img src="https://img.shields.io/github/stars/state-spaces/s4?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> <a href="https://hazyresearch.stanford.edu/blog/2022-01-14-s4-1">
   <img src="https://github.com/wonjunn/state-space-models-study/assets/60861873/6746910e-7ed0-43bb-9bd7-2d8c3ef52964" width="20" />
 </a> </summary>
   
@@ -82,7 +82,7 @@
 
 </details>
 
-<details><summary> <strong> RWKV: Reinventing RNNs for the Transformer Era </strong> <code>EMNLP 2023</code> <code>#RWKV</code> <br> <a href="https://arxiv.org/abs/2305.13048"><img src="https://img.shields.io/badge/arXiv-2305.13048-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/BlinkDL/RWKV-LM"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square"></a> </summary>
+<details><summary> <strong> RWKV: Reinventing RNNs for the Transformer Era </strong> <code>EMNLP 2023</code> <code>#RWKV</code> <br> <a href="https://arxiv.org/abs/2305.13048"><img src="https://img.shields.io/badge/arXiv-2305.13048-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/BlinkDL/RWKV-LM"><img src="https://img.shields.io/github/stars/BlinkDL/RWKV-LM?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
@@ -104,11 +104,11 @@
 
 ### Vision
 
-<details><summary> <strong> Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model </strong> <code>Preprint</code> <code>#Vim</code> <br> <a href="https://arxiv.org/abs/2401.09417"><img src="https://img.shields.io/badge/arXiv-2401.09417-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/hustvl/Vim"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square"></a> </summary>
+<details><summary> <strong> Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model </strong> <code>Preprint</code> <code>#Vim</code> <br> <a href="https://arxiv.org/abs/2401.09417"><img src="https://img.shields.io/badge/arXiv-2401.09417-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/hustvl/Vim"><img src="https://img.shields.io/github/stars/hustvl/Vim?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
-<details><summary> <strong> VMamba: Visual State Space Model </strong> <code>Preprint</code> <code>#VMamba</code> <br> <a href="https://arxiv.org/abs/2401.10166"><img src="https://img.shields.io/badge/arXiv-2401.10166-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/MzeroMiko/VMamba"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square"></a> </summary>
+<details><summary> <strong> VMamba: Visual State Space Model </strong> <code>Preprint</code> <code>#VMamba</code> <br> <a href="https://arxiv.org/abs/2401.10166"><img src="https://img.shields.io/badge/arXiv-2401.10166-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/MzeroMiko/VMamba"><img src="https://img.shields.io/github/stars/MzeroMiko/VMamba?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
