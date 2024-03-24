@@ -86,6 +86,10 @@
 
 </details>
 
+<details><summary> <strong> Simple linear attention language models balance the recall-throughput tradeoff </strong> <code>Preprint</code> <code>#BASED</code> <br> <a href="https://arxiv.org/abs/2402.18668"><img src="https://img.shields.io/badge/arXiv-2402.18668-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/HazyResearch/based"><img src="https://img.shields.io/github/stars/HazyResearch/based?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
 <details><summary> <strong> Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models </strong> <code>Preprint</code> <code>#Griffin</code> <code>#Hawk</code> <br> <a href="https://arxiv.org/abs/2402.19427"><img src="https://img.shields.io/badge/arXiv-2402.19427-b31b1b.svg?style=flat-square"></a> </summary>
 
 </details>
@@ -97,6 +101,10 @@
 </details>
 
 <details><summary> <strong> Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors </strong> <code>ICLR 2024</code> <br> <a href="https://arxiv.org/abs/2310.02980"><img src="https://img.shields.io/badge/arXiv-2310.02980-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/IdoAmos/not-from-scratch"><img src="https://img.shields.io/github/stars/IdoAmos/not-from-scratch?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
+<details><summary> <strong> Zoology: Measuring and Improving Recall in Efficient Language Models </strong> <code>ICLR 2024</code> <br> <a href="https://arxiv.org/abs/2312.04927"><img src="https://img.shields.io/badge/arXiv-2312.04927-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/HazyResearch/zoology"><img src="https://img.shields.io/github/stars/HazyResearch/zoology?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
